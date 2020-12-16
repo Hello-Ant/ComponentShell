@@ -1,2 +1,4 @@
+include ':app:module-base:lib-base'
+include ':app:module-base'
 include ':app'
 rootProject.name = "ComponentShell"
